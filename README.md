@@ -14,7 +14,7 @@ Complete collection of vehicle handling files from Grand Theft Auto V, including
 **BACKUP THE FILE BEFORE EDITING**
 
 This file contains handling data for ALL vehicles in GTA V. A single syntax error or formatting mistake can:
-- Make vehicles behave incorrectly
+- Make all vehicles behave incorrectly
 
 ## Usage Instructions
 1. **Always backup** your original `handling.meta` first
